@@ -24,4 +24,4 @@ gfortran -c moves.f90 -Ofast
 gfortran SA.f90 mtfort90.f90 globalconstants.f90 creation.f90 costfunc.f90 moves.f90 -o ../run/SA -Ofast
 ```
 
-#TO ERASE ALL .mod AND .o -FILES, TYPE make clean INTO THE COMMAND LINE
+TO ERASE ALL .mod AND .o -FILES, TYPE make clean INTO THE COMMAND LINE

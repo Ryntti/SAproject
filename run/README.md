@@ -10,12 +10,12 @@
 | sysconfig_initial.txt     | Data of every rectangle of the initial system config for plots                                 |
 
 
-#To run the main program executable, type the following in the command line:
+To run the main program executable, type the following in the command line:
 ```
 ./SA
 ```
 
-#To plot the results, type the following in the command line:
+To plot the results, type the following in the command line:
 ```
 python3 SAplot.py
 ```
